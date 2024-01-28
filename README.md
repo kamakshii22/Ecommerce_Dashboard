@@ -2,7 +2,7 @@
   Interactive E-commerce Sales Dashboard
 </h1>
 <div align="center">
-  <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power BI Logo" width="100" height="100">
+  <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power BI Logo" width="110" height="100">
 </div>
 
 <div align="center">
