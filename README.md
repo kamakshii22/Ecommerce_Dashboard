@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kamakshii22/Sales_Dashboard/main/SalesDashboard.jpg" alt="Power BI Logo" >
+  <img src="https://github.com/kamakshii22/Sales_Dashboard/blob/main/SalesDashboard.jpg" alt="Power BI Logo" >
 </div>
 
 ## Overview
