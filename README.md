@@ -1,4 +1,6 @@
-# Power BI E-commerce Sales Dashboard
+<h1 align="center">
+  Interactive E-commerce Sales Dashboard
+</h1>
 <div align="center">
   <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power BI Logo" width="100" height="100">
 </div>
@@ -46,9 +48,8 @@ Welcome to the Power BI E-commerce Sales Dashboard! This interactive dashboard p
 - 🗓️ State Slider for dynamic state-wise insights
 - 🔄 Quarterly Slider for tracking quarterly performance trends
 
-## Getting Started
+## Open Power BI Dashboard - Explore and Customize
 
-<!-- 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/power-bi-ecommerce-dashboard.git
-   cd power-bi-ecommerce-dashboard -->
+1. **Download Power BI Desktop:** [Download Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
+2. **Open the Power BI file:** [my_ecommerce_dashboard.pbix](https://github.com/kamakshii22/Sales_Dashboard/blob/main/Ecom_Sales.pbix)
+3. **Explore the different visualizations and customize parameters as needed.**
